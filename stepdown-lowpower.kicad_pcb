@@ -1345,7 +1345,7 @@
   (gr_text "1A Fuse" (at 50.98 58.39) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-0000607d649c)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "LowPower StepDown\n2022-09-08" (at 72.39 76.2) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-0000607d64ea)
+  (gr_text "StepDown LowPower\nV1.2\n2022-09-08" (at 72.39 76.2) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-0000607d64ea)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "+" (at 97.79 39.37) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-000060813cdc)
